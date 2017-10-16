@@ -7,10 +7,12 @@ header {
 }
 header h1{
 	font-size: 70px;
-	color: white;
 }
 header a {
 	font-size: 18px;
+	color: white;
+}
+.color {
 	color: white;
 }
 .main-content h2 {
@@ -24,6 +26,13 @@ header a {
 }
 #designed-heading {
 	background-image: url("../../resources/images/the-flatiron-building.png");
-	color: white;
 	font-size: 23px;
 }
+footer {
+	background-color: dimgray;
+	text-align: left;
+}
+footer span {
+	font-size: 11px;
+}
+	
