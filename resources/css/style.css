@@ -22,3 +22,8 @@ header a {
 .main-content p {
 	font-size: 14px;
 }
+#designed-heading {
+	background-image: url("../../resources/images/the-flatiron-building.png");
+	color: white;
+	font-size: 23px;
+}
